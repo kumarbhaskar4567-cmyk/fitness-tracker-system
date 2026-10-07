@@ -1,0 +1,6 @@
+{
+  "name": "Smart FITNESS Tracker",
+  "description": "A comprehensive Samsung Health-inspired fitness & wellness tracker with real-time activity rings, workouts, sleep, nutrition, vitals, breathing timer, and community challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
